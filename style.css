@@ -6,9 +6,15 @@ h1 {
 
 h5 {
   background-color: green;
+  color: "red";
+  font-size: 100;
 }
 
 p {
   background-color: red;
   color: yellowgreen;
+}
+
+span {
+  font-size: 12;
 }
